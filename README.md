@@ -5,3 +5,6 @@ update 17th Oct - start with searching algorithms.
     contributions visible in profile contributions section
 checkin - 18th Oct - starting with ternary search
 Revision
+
+diff between array an dlinkedlistin python, 
+learn all sorting algorithms
